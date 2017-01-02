@@ -1,3 +1,11 @@
+/*
+ *
+ * @author Ferdinand Urban
+ * Copyright (C) 2017  Ferdinand Urban
+ *
+ *
+ */
+
 package com.ferdinandurban.androidjenkinsdemo;
 
 import android.support.v7.app.AppCompatActivity;
